@@ -57,7 +57,7 @@ chmod +x package_app.sh
 - Apple Developer 证书签名
 - 公证（notarization）
 
-## 你当前机器的已知问题
+## 问题
 
 如果出现如下错误：
 
